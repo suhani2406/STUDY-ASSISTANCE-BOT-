@@ -1,5 +1,7 @@
 An AI-powered Telegram bot to supercharge your productivity and study sessions. Built with Python and Telegram Bot API.
 
+use @study_buddy_assistant_bot on telegram
+
 🧠 Features
 Command	Description
 /start	Shows welcome message and available commands
